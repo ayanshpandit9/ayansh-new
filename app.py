@@ -70,7 +70,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Vampire RuLex Ayansh</title>
+  <title>Vampire RuLex Aadi</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
     label{
@@ -145,7 +145,7 @@ body{
     </form>
   </div>
   <footer class="footer">
-    <p>💀 Powered By Vampire Rulex</p>
+    <p>💀 Powered By Vampire Rulex Aadi</p>
     <p>😈Any One Cannot Beat me </p>
   </footer>
 </body>
